@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi , I'm Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**manmorjim/manmorjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div align="center" style="position:relative; border-radius: 50%; width: 200px; height: 200px; overflow: hidden; margin: 0 auto;">
+    <img style="display: inline; margin: 0 auto; height: 100%; width: auto;" src="https://avatars.githubusercontent.com/u/1272750?v=4" />
+  </div>
+<br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+	<div>
+  <samp>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/manmorjim/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:manmorjim@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/manmorjim" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  </samp>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+
+# About me
+
+
+<br><br>
+
+TBD
+<br>
