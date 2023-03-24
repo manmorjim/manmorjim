@@ -1,12 +1,10 @@
 <h1 align="center">Hi , I'm Manuel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  <div align="center" style="position:relative; border-radius: 50%; width: 200px; height: 200px; overflow: hidden; margin: 0 auto;">
-    <img style="display: inline; margin: 0 auto; height: 200px; width: 200px;" src="https://avatars.githubusercontent.com/u/1272750?v=4" />
-  </div>
-<br>
+<p align="center">
+  <img style="display: inline; margin: 0 auto; height: 200px; width: 200px;" src="https://github.com/manmorjim/manmorjim/raw/main/profile_pic.png" />
+</p>
 
 <p align="center"> 
-	<div>
   <samp>
     <p align="center">
       <br/>
@@ -19,17 +17,26 @@
       <a href="https://twitter.com/manmorjim" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
+      <a href="https://discordapp.com/users/1085529617798017064" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+         alt="azzar" height="30"/></a>
     </p>
   </samp>
-</div>
-
 </p>
+  <h2 align="center">He/him</h2>
 
 
 # About me
 
+- :round_pushpin: Coding from Spain
+- :computer: Creating GIS solutions as a Backend Engineer at CARTO
+- :books: M.Sc. in Logic, Computation and Artificial Intelligence
+- :seedling: Learning about LLMs
 
-<br><br>
+# Stats
 
-TBD
-<br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=manmorjim&count_private=true&bg_color=282c34&text_color=d19a66&title_color=e06c75" />
+  </a>
+</p>
