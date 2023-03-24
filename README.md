@@ -10,13 +10,13 @@
   <samp>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/manmorjim/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/manmorjim/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:manmorjim@gmail.com" target="blank"><img align="center"
+      <a href="mailto:manmorjim@gmail.com"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/manmorjim" target="blank"><img align="center"
+      <a href="https://twitter.com/manmorjim" target="_blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
