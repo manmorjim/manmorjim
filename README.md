@@ -29,7 +29,7 @@
 # About me
 
 - :round_pushpin: Coding from Spain
-- :computer: Creating GIS solutions as a Backend Engineer at CARTO
+- :computer: Unlocking the power of AI 🤖 for oncologists at Tempus Labs
 - :books: M.Sc. in Logic, Computation and Artificial Intelligence
 - :seedling: Learning about LLMs
 
