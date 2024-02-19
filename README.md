@@ -28,7 +28,7 @@
 
 # About me
 
-- :round_pushpin: Coding from Spain
+- :round_pushpin: Coding from Barcelona
 - :computer: Unlocking the power of AI 🤖 for oncologists at Tempus AI
 - :books: M.Sc. in Logic, Computation and Artificial Intelligence
 - :seedling: Playing with LLMs
